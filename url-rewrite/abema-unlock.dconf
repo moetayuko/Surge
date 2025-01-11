@@ -1,0 +1,2 @@
+^https?:\/\/api\.[\w-]+\.abema-tv\.com\/v\d\/ip\/check - reject
+^https?:\/\/api\.abema\.io\/v\d\/ip\/check - reject
