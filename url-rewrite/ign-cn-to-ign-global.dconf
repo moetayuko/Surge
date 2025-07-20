@@ -1,1 +1,3 @@
+[URL Rewrite]
+
 ^https?:\/\/(www.)?ign\.xn--fiqs8s\/ http://cn.ign.com/ccpref/us 302

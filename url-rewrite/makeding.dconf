@@ -1,3 +1,5 @@
+[URL Rewrite]
+
 ^https?:\/\/(www.)?abbyychina\.com\/ http://www.abbyy.cn/ 302
 ^https?:\/\/(www.)?bartender\.cc\/ https://cn.seagullscientific.com 302
 ^https?:\/\/(www.)?betterzip\.net\/ https://macitbetter.com/ 302

@@ -1,3 +1,5 @@
+[URL Rewrite]
+
 # >> 2048Puzzle
 ^https?:\/\/a\.applovin\.com\/3\.0\/ad - reject
 
